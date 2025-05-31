@@ -3,8 +3,8 @@ This repository contains the backend of the Lari project.
 Written in Golang
 Our other repos!
 
-https://github.com/EatGober/lari-middleware
-https://github.com/EatGober/frontend
+https://github.com/lari-health/lari-middleware
+https://github.com/lari-health/old-frontend
 ## Endpoint Documentation
 ### Updates to Appointment Status
 This is for when an appointment is cancelled
